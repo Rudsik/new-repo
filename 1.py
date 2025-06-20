@@ -18,5 +18,5 @@ min_temperature = min(temperatures)
 print(f"temp_list: {temperatures}")
 print(f"max_temp: {max_temperature}")
 print(f"min_temp: {min_temperature}")
-print(f"Avg_temp: {Average_temperature}")
+print(f"Avg_temp: {Average_temperature:.2f}")
 
