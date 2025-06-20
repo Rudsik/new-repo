@@ -12,5 +12,5 @@ print(temp)
 max_temperature = max(temperatures)
 min_temperature = min(temperatures)
 
-print(max_temperature)
-print(min_temperature)
+print(f"max_temp: {max_temperature}")
+print(f"min_temp: {min_temperature}")
